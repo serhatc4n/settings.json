@@ -1,0 +1,15 @@
+{
+    "editor.fontWeight": "500",
+    "editor.fontSize": 21,
+    "terminal.integrated.fontSize": 15,
+    "workbench.layoutControl.enabled": false,
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "material-icon-theme",
+}
